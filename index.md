@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Benvenue !
 
 Valkommen hit ! Je m'appelle César, je suis étudiant en sociologie et militant *pédé*. Vous vous trouvez sur mon blog, j'y parle pouvoir et sexualité. Enjoy !
