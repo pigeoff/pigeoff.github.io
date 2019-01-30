@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | absolute_url }}" />
+</head>
+<body>
+
+    <header class="cover-header">
+      <div class="data" >
+        <h1><a href="{{ "/" | absolute_url }}" >{{ site.title }}</a></h1>
+        <span class="description" >{{ site.slogan }}</span>
+      </div>
+      <nav >
+        <a href="{{ "/om" | absolute_url }}">Om</a>
+          <a class="social" href="http://twitter.com/{{ site.twitter }}" target="_blank">
+            Twitter
+          </a>
+      </nav>
+    </header>
+
+</body>
+</html>
