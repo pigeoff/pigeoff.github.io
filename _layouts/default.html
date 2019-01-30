@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="{{ "/assets/main.css" | absolute_url }}" />
 </head>
 <body>
-
     <header class="cover-header">
       <div class="data" >
         <h1><a href="{{ "/" | absolute_url }}" >{{ site.title }}</a></h1>
@@ -20,6 +19,16 @@
           </a>
       </nav>
     </header>
+
+    {{ content }}
+
+    {% for post in site.posts %}
+      <article >
+        <h1><a href="{{ post.url }}" >{{ post.title }}</a></h1>
+        <span class="date" >{{ post.date || date_to_string }}</span>
+        <p>{{ post.chapeau }}</p>
+      </article>
+    {% endfor %}
 
 </body>
 </html>
