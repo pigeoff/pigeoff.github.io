@@ -29,6 +29,6 @@ S'ajoute à cette division une *économie hétérosexuelle*. Celle qui établie 
 
 J'ai vraiment pas lu grand chose de Michel Crozier, à vrai dire je ne me suis penché que sur un extrait de son livre *Le Phénomène Bureaucratique*. Pour autant, l'extrait en question m'a permis d'intégrer dans ma tête une manière maline de voir l'organisation bureaucratique, ce qui est fort de sens pour moi car je travaille dans un théâtre municipal dont le statut est *service public municipal*. Pour Michel Crozier, une *bureaucratie* comme celle que l'on peut connaître dans la fonction publique, respecte quatre caractéristiques : l'impersonnalité des règles, la centralisation des décisions, l'isolement et l'autonomie des strates de la hiérarchie et l'existence en conséquence de contre-pouvoirs.
 
-*Travaux en cours*
+*Travaux en cours - veuillez patienter*
 
 *La suite arrive! Je compte parler notamment de Pierre Bourdieu. À+ dans le bus :D*
