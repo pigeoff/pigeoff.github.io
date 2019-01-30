@@ -32,6 +32,12 @@ header .data {
 header .data h1 {
   display: block;
   margin: 0;
+  background: linear-gradient(to right, #FF595E, #6A4C93);
+  color: #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
 }
 
 header .data .description {
@@ -230,6 +236,12 @@ article blockquote {
   header .data h1 {
     font-size: 18pt;
     color: #fff;
+
+    background: transparent;
+    -webkit-background-clip: none;
+    -webkit-text-fill-color: #fff;
+    -moz-background-clip: none;
+    -moz-text-fill-color: #fff;
   }
 
   header .data h1 a {
