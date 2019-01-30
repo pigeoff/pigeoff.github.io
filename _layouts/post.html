@@ -20,15 +20,13 @@
       </nav>
     </header>
 
-    {{ content }}
-
     <div id="content" >
       <div id="articles" >
         {% for post in site.posts %}
           <article >
-            <h1><a href="{{ post.url }}" >{{ post.title }}</a></h1>
-            <span class="date" >{{ post.date || date_to_string }}</span>
-            <p>{{ post.chapeau }}</p>
+            <h1><a href="{{ page.url }}" >{{ page.title }}</a></h1>
+            <span class="date" >{{ page.date || date_to_string }}</span>
+            {{ content }}
           </article>
         {% endfor %}
       </div>
@@ -38,7 +36,7 @@
         <p>{{ site.description }}</p>
         <p class="footer">Fait avec &lt;3 en Normandie</p>
       </div>
-      
+
     </div>
 
 

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | absolute_url }}" />
+</head>
+<body>
+    <header class="cover-header">
+      <div class="data" >
+        <h1><a href="{{ "/" | absolute_url }}" >{{ site.title }}</a></h1>
+        <span class="description" >{{ site.slogan }}</span>
+      </div>
+      <nav >
+        <a href="{{ "/om" | absolute_url }}">Om</a>
+          <a class="social" href="http://twitter.com/{{ site.twitter }}" target="_blank">
+            Twitter
+          </a>
+      </nav>
+    </header>
+
+    <div id="content" >
+      <div id="articles" >
+        {% for post in site.posts %}
+          <article >
+            <h1><a href="{{ post.url }}" >{{ post.title }}</a></h1>
+            <span class="date" >{{ post.date || date_to_string }}</span>
+            <p>{{ post.chapeau }}</p>
+          </article>
+        {% endfor %}
+      </div>
+
+      <div id="sidebar" >
+        <h2>Om mig</h2>
+        <p>{{ site.description }}</p>
+        <p class="footer">Fait avec &lt;3 en Normandie</p>
+      </div>
+
+    </div>
+
+
+</body>
+</html>
