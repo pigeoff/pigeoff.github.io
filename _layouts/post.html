@@ -22,13 +22,11 @@
 
     <div id="content" >
       <div id="articles" >
-        {% for post in site.posts %}
           <article >
             <h1><a href="{{ page.url }}" >{{ page.title }}</a></h1>
             <span class="date" >{{ page.date || date_to_string }}</span>
             {{ content }}
           </article>
-        {% endfor %}
       </div>
 
       <div id="sidebar" >
