@@ -25,7 +25,7 @@
         {% for post in site.posts %}
           <article >
             <h1><a href="{{ post.url }}" >{{ post.title }}</a></h1>
-            <span class="date" >{{ post.date }}</span>
+            <span class="date" >{{ post.date || date_to_string }}</span>
             <p>{{ post.chapeau }}</p>
           </article>
         {% endfor %}
@@ -34,7 +34,7 @@
       <div id="sidebar" >
         <h2>Om mig</h2>
         <p>{{ site.description }}</p>
-        <p class="footer">Fait avec &lt;3 en Normandie - v1.5.2</p>
+        <p class="footer">Fait avec &lt;3 en Normandie - v1.5.4</p>
       </div>
 
     </div>
