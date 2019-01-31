@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Om"
-date: 2019-30-01
+date: "2019-30-01"
 ---
 
 Hej !
