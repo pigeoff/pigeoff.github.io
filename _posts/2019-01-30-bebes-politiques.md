@@ -2,7 +2,6 @@
 layout: post
 title: "Mes bébés politiques"
 chapeau: "Retour sur mes auteur·e·s préféré·e·s, celleux qui m'ont ouvert les yeux et qui me permettent de mieux comprendre les rouages du pouvoir pour mieux les combattre."
-date: 2019-01-30
 ---
 Depuis quelques temps je me suis mis à lire quelques bouquins qui portent sur des sujets politiques. On me les a conseillés, j'en ai trouvé par moi-même, certains m'ont plus, d'autres pas. L'important est que mon esprit a retenu le nom des auteur·e·s qui m'ont le plus intéressé, comprendre ici *détruit le cerveau* par la clarté et le génie de leurs propos (je vais peut-être un peu loin). Pour vous, mes bébés politiques et une petite explication de chacune leur réflexion.
 
