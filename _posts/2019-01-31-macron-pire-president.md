@@ -1,7 +1,7 @@
 ---
 type: post
 title: "Personne n'a jamais fait pire que Macron"
-slogan: "Petit billet de réaction, à chaud, du vote par les député·e·s de la loi anti-casseurs, hier soir à l'assemblée nationale."
+chapeau: "Petit billet de réaction, à chaud, du vote par les député·e·s de la loi anti-casseurs, hier soir à l'assemblée nationale."
 ---
 
 Dans la nuit de mercredi à jeudi, les député·e·s ont voté une série d'amendements dans le cadre du vote de la loi dite « anti-casseurs ». Cette loi, soumise en réaction au mouvement des Gilets Jaunes qui secoue le pays depuis plusieurs mois, vise à limiter l'accès au droit de manifestation aux prétendu·e·s casseur·euse·s. En réalité, il s'agit surtout d'une nouvelle réforme qui s'inscrit dans un processus plus gobale de répression des mouvements sociaux, permettant d'accroître le pouvoir de l'Etat dans le contrôle de la contestation sociale.
