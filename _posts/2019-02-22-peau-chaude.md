@@ -1,7 +1,7 @@
 ---
 title: "Peau chaude"
 type: post
-chapeau "J'aime quand tu caresses mes bras, mes cuisses, mon cou. Quand tes mains s'aventurent ici et là alors que mon corps vibre d'un plaisir fou, d'une sensation si rare, précieuse, qu'elle me boulverse jusqu'au lieux les plus oscurs de ma chair."
+chapeau: "J'aime quand tu caresses mes bras, mes cuisses, mon cou. Quand tes mains s'aventurent ici et là alors que mon corps vibre d'un plaisir fou, d'une sensation si rare, précieuse, qu'elle me boulverse jusqu'au lieux les plus oscurs de ma chair."
 ---
 
 J'aime quand tu caresses mes bras, mes cuisses, mon cou. Quand tes mains s'aventurent ici et là alors que mon corps vibre d'un plaisir fou, d'une sensation si rare, précieuse, qu'elle me boulverse jusqu'au lieux les plus oscurs de ma chair. C'est l'été. Il fait chaud. Le soleil s'assoupit, le ciel devient rose, un rose aux nuances bleues, un ciel sans nuage qui perdra sa couleur dans quelques instants. Un court instant, c'est ce que nous réserve le plus souvent nos entrevues. On part dans la rue, l'air chaud, le beton chaud, la lumière rose d'un soleil qui s'épuise, puis nous marchons. Nous marchons longtemps, nos corps se rapprochant puis s'éloignant, nos regards se croisant puis se perdant, nous marchons. Ta peau lisse, ta barbe discrète, tes cheveux en pétard mais massifs d'un noir opaque. Je passe ma main dans tes cheveux, je joue avec tes boucles, je descends vers ton menton et je tiens et caresse ta barbe juvénile, gardant en main ton menton. Tu souris, t'aimes ça. Alors je continue. Il fait chaud, il fait beau. Je me rapproche, je garde ton regard face au mien, je me rapproche, je t'embrasse.
