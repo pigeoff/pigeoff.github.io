@@ -1,0 +1,626 @@
+@font-face {
+	font-family: "Parisine";
+	src: url('./font/Parisine-Regular.otf');
+  font-weight: normal;
+}
+
+@font-face {
+	font-family: "Parisine";
+	src: url('./font/Parisine-Bold.otf');
+  font-weight: bold;
+}
+
+body {
+  margin: 0;
+  background: #000;
+}
+
+@keyframes infoAnim {
+  from {
+    top: -500px;
+  }
+
+  10% {
+    top: 0;
+  }
+
+  90% {
+    top: 0;
+  }
+
+  to {
+    top: -500px;
+  }
+}
+
+@keyframes rameAnim {
+  from {
+    margin-top: 67480px;
+  }
+
+	10% {
+		margin-top: 60480px;
+	}
+
+	12% {
+		margin-top: 60480px;
+	}
+
+	20% {
+		margin-top: 53680px;
+	}
+
+	22% {
+		margin-top: 53680px;
+	}
+
+	30% {
+		margin-top: 46880px;
+	}
+
+	32% {
+		margin-top: 46880px;
+	}
+
+	40% {
+		margin-top: 40120px;
+	}
+
+	42% {
+		margin-top: 40120px;
+	}
+
+	50% {
+		margin-top: 33320px;
+	}
+
+	52% {
+		margin-top: 33320px;
+	}
+
+	60% {
+		margin-top: 26500px;
+	}
+
+	62% {
+		margin-top: 26500px;
+	}
+
+	70% {
+		margin-top: 19770px;
+	}
+
+	72% {
+		margin-top: 19770px;
+	}
+
+	80% {
+		margin-top: 12900px;
+	}
+
+	82% {
+		margin-top: 12900px;
+	}
+
+	90% {
+		margin-top: 6150px;
+	}
+
+	92% {
+		margin-top: 6150px;
+	}
+
+  to {
+    margin-top: 0;
+  }
+}
+
+@keyframes rameAnim2 {
+	from {
+		margin-top: 40120px;
+	}
+
+	2% {
+		margin-top: 40120px;
+	}
+
+	10% {
+		margin-top: 33320px;
+	}
+
+	12% {
+		margin-top: 33320px;
+	}
+
+	20% {
+		margin-top: 26500px;
+	}
+
+	22% {
+		margin-top: 26500px;
+	}
+
+	30% {
+		margin-top: 19770px;
+	}
+
+	32% {
+		margin-top: 19770px;
+	}
+
+	40% {
+		margin-top: 12900px;
+	}
+
+	42% {
+		margin-top: 12900px;
+	}
+
+	50% {
+		margin-top: 6150px;
+	}
+
+	52% {
+		margin-top: 6150px;
+	}
+
+  60% {
+    margin-top: 0;
+  }
+
+	62% {
+    margin-top: 67480px;
+  }
+
+	70% {
+		margin-top: 60480px;
+	}
+
+	72% {
+		margin-top: 60480px;
+	}
+
+	80% {
+		margin-top: 53680px;
+	}
+
+	82% {
+		margin-top: 53680px;
+	}
+
+	98% {
+		margin-top: 46880px;
+	}
+
+	to {
+		margin-top: 46880px;
+	}
+
+}
+
+@keyframes rameAnim3 {
+	from {
+		margin-top: 19770px;
+	}
+
+	2% {
+		margin-top: 19770px;
+	}
+
+	10% {
+		margin-top: 12900px;
+	}
+
+	12% {
+		margin-top: 12900px;
+	}
+
+	20% {
+		margin-top: 6150px;
+	}
+
+	22% {
+		margin-top: 6150px;
+	}
+
+  30% {
+    margin-top: 0;
+  }
+
+	32% {
+    margin-top: 67480px;
+  }
+
+	40% {
+		margin-top: 60480px;
+	}
+
+	42% {
+		margin-top: 60480px;
+	}
+
+	50% {
+		margin-top: 53680px;
+	}
+
+	52% {
+		margin-top: 53680px;
+	}
+
+	60% {
+		margin-top: 46880px;
+	}
+
+	62% {
+		margin-top: 46880px;
+	}
+
+	70% {
+		margin-top: 40120px;
+	}
+
+	72% {
+		margin-top: 40120px;
+	}
+
+	80% {
+		margin-top: 33320px;
+	}
+
+	82% {
+		margin-top: 33320px;
+	}
+
+	98% {
+		margin-top: 26500px;
+	}
+
+	to {
+		margin-top: 26500px;
+	}
+
+}
+
+@keyframes rameAnim4 {
+	from {
+    margin-top: 67480px;
+  }
+
+	to {
+		margin-top: 0;
+	}
+}
+
+header {
+	left: calc(50% + 400px);
+  position: fixed;
+	margin-top: 1500px;
+	max-width: 500px;
+	padding: 30px;
+	color: #fff;
+	z-index: 700;
+
+	transform: rotate(90deg)skew(-30deg, 0deg);
+	transform-origin: top left;
+
+	font-family: "Parisine";
+}
+
+header h1 {
+	font-size: 28pt;
+}
+
+header p {
+	font-size: 16pt;
+}
+
+
+#info {
+  display: none;
+  width: 300px;
+  font-size: 16pt;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+  position: fixed;
+  top: -500px;
+  right: 0;
+  padding: 20px;
+  text-align: right;
+
+  animation-duration: 10s;
+  animation-name: infoAnim;
+}
+
+@media only screen and (max-width: 900px) {
+    #info {
+			display: block;
+		}
+		header {
+			display: none;
+		}
+}
+
+#rame-box {
+  transform: rotate(-60deg);
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 180px;
+  height: 700px;
+  margin: -400px 0 0 -340px;
+  overflow: hidden;
+
+
+}
+
+
+#rame {
+  height: 700px;
+	width: 126px;
+	background-image: url('./rame2.png');
+	background-position: center;
+	background-size: cover;
+  margin: 0 auto;
+  display: block;
+  margin-top: 0;
+	overflow: hidden;
+}
+
+#rame-oppos {
+	height: 700px;
+  display: block;
+}
+
+
+#ligne {
+  transform: rotate(-60deg);
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 3000px;
+  height: 3000px;
+  margin: -1500px 0 0 -1500px;
+  border: 10px solid #000;
+  overflow: scroll;
+
+}
+
+#ligne #rail {
+  width: 58px;
+  height: 100000px;
+  background-image: url("./rail.png");
+  background-size: contain;
+  background-repeat: repeat;
+  left: calc(50% - 185px);
+  position: fixed;
+}
+
+#ligne #separation {
+  width: 10px;
+  height: 100000px;
+  background-image: url("./separation.png");
+  background-size: contain;
+  background-repeat: repeat;
+  left: calc(50% - 225px);
+  position: fixed;
+}
+
+
+#ligne #rail2 {
+  width: 58px;
+  height: 100000px;
+  background-image: url("./rail.png");
+  background-size: contain;
+  background-repeat: repeat;
+  left: calc(50% - 320px);
+  position: fixed;
+}
+
+#ligne #rame-oppos-anchor {
+	width: 20px;
+  height: 20px;
+  left: calc(50% - 10px);
+  position: fixed;
+	background: #fff;
+	margin: 0;
+	margin-top: 0;
+
+}
+
+
+
+#rame-oppos {
+	height: 700px;
+  left: calc(50% - 278px);
+  position: fixed;
+	margin-top: 67480px;
+	z-index: 1000;
+
+	animation-name: rameAnim4;
+	animation-duration: 180s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-delay: 0;
+}
+
+#rame-oppos2 {
+	height: 700px;
+  left: calc(50% - 278px);
+  position: fixed;
+	margin-top: 67480px;
+	z-index: 1000;
+
+	animation-name: rameAnim4;
+	animation-duration: 180s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-delay: 60s;
+}
+
+#rame-oppos3 {
+	height: 700px;
+  left: calc(50% - 278px);
+  position: fixed;
+	margin-top: 67480px;
+	z-index: 1000;
+
+	animation-name: rameAnim4;
+	animation-duration: 180s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-delay: 120s;
+}
+
+
+.light {
+  color: #FFCA3A;
+  color: transparent;
+  font-size: 14pt;
+  text-align: center;
+  display: block;
+  margin: 100px 100px 100px 0;
+  box-sizing: border-box;
+}
+
+.station {
+  height: 900px;
+  margin: 0 auto 0px auto;
+  padding-left: 43px;
+  display: block;
+}
+
+.station-cell-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content:flex-start;
+    flex-wrap: nowrap;
+
+    margin-top: -750px;
+
+}
+
+.station-cell .pub1 {
+  transform: rotate(90deg) skew(30deg, 0deg);
+	height: 65px;
+	width: 110px;
+	object-fit: cover;
+	object-position: center;
+  margin-left:  130px;
+  border: 5px solid #664C1D;
+  box-shadow: 0 0 1px #999;
+  margin-top: 0;
+}
+
+.station-cell .pub2 {
+  transform: rotate(90deg) skew(30deg, 0deg);
+  height: 65px;
+	width: 110px;
+	object-fit: cover;
+	object-position: center;
+  margin-left:  130px;
+  border: 5px solid #664C1D;
+  box-shadow: 0 0 1px #999;
+  margin-top: 140px;
+}
+
+
+.station-cell .station-title {
+
+  transform: rotate(90deg) skew(30deg, 0deg);
+  transform-origin: center;
+
+  font-size: 12pt;
+  font-family: "Parisine";
+  color: #fff;
+  background: #333568;
+  padding: 3px 7px;
+  border: 3px solid #fff;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0 0 0 145px;
+  box-shadow: 0 0 1px #999;
+	margin-top: 120px;
+
+	max-width: 150px;
+	text-align: center;
+
+}
+
+/* == PROJETS ==*/
+
+#circle {
+	position: fixed;
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	top: -40px;
+	right: -40px;
+	margin: 0;
+	border-radius: 5000px;
+}
+
+.projet {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background: #fff;
+	color: #000;
+	height: 100%;
+	box-sizing: border-box;
+
+	display: none;
+
+	overflow-y: scroll;
+
+}
+
+.projet .inner {
+	font-family: "Parisine", sans-serif;
+	max-width: 700px;
+	margin: 20px auto;
+	padding: 0 20px 10px 20px;
+	box-sizing: border-box;
+}
+
+.projet .inner .m {
+	display: flex;
+	background: #fff;
+	border: 2px solid #1C3F9E;
+	align-items: center;
+	align-content: center;
+	width: 20px;
+	height: 20px;
+	padding: 0 20px 20px 0;
+}
+
+.projet .inner .m span {
+	display: inline-block;
+}
+
+.projet .inner .mn {
+
+}
+
+.projet .inner p {
+	text-align: justify;
+	line-height: 25px;
+}
+
+.projet .inner li {
+	line-height: 25px;
+}
+
+.projet .inner ul {
+
+}
+
+.projet .inner .img {
+	width: calc(100% - 40px);
+	margin: 10px -20px 10px -20px;
+}

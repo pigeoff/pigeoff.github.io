@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6C2380;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#214395;}
+	.st3{fill:none;stroke:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="XMLID_4_">
+	<circle id="XMLID_2_" class="st0" cx="691.2" cy="279.8" r="139.6"/>
+	<g id="XMLID_3_">
+		<path id="XMLID_7_" class="st1" d="M626.5,348.6V240.4c-4.7,3.7-18.5,10.9-23.6,13.4l-7.2,3.7l-9.4-21l8.4-3.9
+			c16-7.4,30.8-16.8,37-21.6h24v137.6H626.5z"/>
+		<path id="XMLID_9_" class="st1" d="M779.1,319.9v28.6h-26.5v-28.6h-62v-25.5L744,211h35.1v87.5h17v21.4H779.1z M752.6,235.2h-0.4
+			c-0.6,2.3-4.5,10.7-9.9,19.3l-28.1,44h38.4V235.2z"/>
+	</g>
+</g>
+<g id="XMLID_12_">
+	<g id="XMLID_1_">
+		<g id="XMLID_23_">
+			<path id="XMLID_21_" class="st1" d="M368.6,407.9c-70.6,0-128.1-57.5-128.1-128.1S298,151.7,368.6,151.7s128.1,57.5,128.1,128.1
+				S439.2,407.9,368.6,407.9z"/>
+		</g>
+		<g id="XMLID_16_">
+			<path id="XMLID_36_" class="st2" d="M368.6,163.2c64.3,0,116.6,52.3,116.6,116.6s-52.3,116.6-116.6,116.6S252,344.1,252,279.8
+				S304.3,163.2,368.6,163.2 M368.6,140.2c-77.1,0-139.6,62.5-139.6,139.6c0,77.1,62.5,139.6,139.6,139.6
+				c77.1,0,139.6-62.5,139.6-139.6C508.2,202.7,445.7,140.2,368.6,140.2L368.6,140.2z"/>
+		</g>
+	</g>
+	<g id="XMLID_5_">
+		<polyline id="XMLID_19_" class="st1" points="319.5,335.8 319.5,223.8 368.6,306.8 		"/>
+		<path id="XMLID_20_" class="st2" d="M319.5,347.3c-6.4,0-11.5-5.2-11.5-11.5v-112c0-5.2,3.5-9.7,8.5-11.1c5-1.4,10.3,0.8,12.9,5.2
+			l49.1,83c3.2,5.5,1.4,12.5-4,15.8c-5.5,3.2-12.5,1.4-15.8-4L331,265.8v69.9C331,342.1,325.9,347.3,319.5,347.3z"/>
+	</g>
+	<g id="XMLID_6_">
+		<polyline id="XMLID_13_" class="st1" points="417.7,335.8 417.7,223.8 368.6,306.8 		"/>
+		<path id="XMLID_18_" class="st2" d="M417.7,347.3c-6.4,0-11.5-5.2-11.5-11.5v-69.9l-27.7,46.8c-3.2,5.5-10.3,7.3-15.8,4
+			c-5.5-3.2-7.3-10.3-4-15.8l49.1-83c2.6-4.5,7.9-6.6,12.9-5.2c5,1.4,8.5,5.9,8.5,11.1v112C429.2,342.1,424,347.3,417.7,347.3z"/>
+	</g>
+</g>
+<g id="XMLID_14_">
+	<polyline id="XMLID_15_" class="st3" points="93,207.8 21,279.8 93,351.8 	"/>
+	<line id="XMLID_26_" class="st3" x1="21" y1="279.8" x2="165" y2="279.8"/>
+</g>
+</svg>
