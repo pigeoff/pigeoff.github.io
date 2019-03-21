@@ -43,7 +43,13 @@ header .data h1 {
 header .data .top-title {
   display: flex;
   align-items: center;
-  font-size: 20px;
+  font-size: 22pt;
+  color: #000;
+  font-weight: 600;
+}
+
+header .data .top-title img {
+  margin-right: 10px;
 }
 
 header .data .description {
