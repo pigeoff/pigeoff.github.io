@@ -25,10 +25,4 @@ Monique Wittig est une féministe de la seconde vague ayant publié en 1980 un e
 
 S'ajoute à cette division une *économie hétérosexuelle*. Celle qui établie à la fois l'injonction à un travail non rémunéré de *reproduction* (des enfants, de l'espèce) et de *production* (tâches domestiques, éducation des enfants) chez les femmes et une appropriation de ce travail par les hommes. Aussi, tout cela est permis et reconnu par l'Etat grâce un contrat nommé *mariage*. Ce contrat est comparable, selon Monique Wittig, au contrat salarial, permettant l'exploitation des prolétaires par les capitalistes. Enfin, toute cette organisation politique, sociale et économique est forte de son invisibilité permise par une naturalisation historique (défendre l'idée de l'aspect naturel) des genres, des caractéristiques, des rôles sociaux, de l'orientation sexuelle et des destins chez les hommes et les femmes.
 
-## Michel Crozier
-
-J'ai vraiment pas lu grand chose de Michel Crozier, à vrai dire je ne me suis penché que sur un extrait de son livre *Le Phénomène Bureaucratique*. Pour autant, l'extrait en question m'a permis d'intégrer dans ma tête une manière maline de voir l'organisation bureaucratique, ce qui est fort de sens pour moi car je travaille dans un théâtre municipal dont le statut est *service public municipal*. Pour Michel Crozier, une *bureaucratie* comme celle que l'on peut connaître dans la fonction publique, respecte quatre caractéristiques : l'impersonnalité des règles, la centralisation des décisions, l'isolement et l'autonomie des strates de la hiérarchie et l'existence en conséquence de contre-pouvoirs.
-
-*Travaux en cours*
-
 *La suite arrive! Je compte parler notamment de Pierre Bourdieu. À+ dans le bus :D*

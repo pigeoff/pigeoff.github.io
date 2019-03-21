@@ -40,6 +40,12 @@ header .data h1 {
   -moz-text-fill-color: transparent;
 }
 
+header .data .top-title {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
 header .data .description {
   display: block;
   color: #777;
