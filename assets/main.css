@@ -149,7 +149,7 @@ article h1.big {
   margin: 0;
   padding: 5px 0;
   font-size: 3em;
-  line-height: 35px;
+  line-height: inherit !important;
 }
 
 article h2 {
@@ -165,7 +165,14 @@ article h1 a {
 
 article .date {
   color: #777;
+  font-size: 13pt;
+}
+
+article .date.big {
+  color: #777;
   font-size: 13px;
+  display: block;
+  padding: 1em 0;
 }
 
 article p {
