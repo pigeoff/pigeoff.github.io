@@ -143,6 +143,15 @@ article h1 {
   line-height: 35px;
 }
 
+article h1.big {
+  display: block;
+  max-width: 80%;
+  margin: 0;
+  padding: 5px 0;
+  font-size: 3em;
+  line-height: 35px;
+}
+
 article h2 {
   font-size: 21px;
   max-width: 80%;
@@ -156,6 +165,7 @@ article h1 a {
 
 article .date {
   color: #777;
+  font-size: 13px;
 }
 
 article p {
