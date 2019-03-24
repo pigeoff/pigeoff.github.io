@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,700i|Spectral:400,400i,700,700i');
+@import url('./inter-font/inter.css');
 
 
 body {
   margin: 0;
   font-family: "Spectral", serif;
+  font-family: "Inter", serif;
   font-size: 14pt;
 }
 
 h1, h2, h3 {
   font-weight: 600;
   font-family: "Open Sans", serif;
+  font-family: "Inter", serif;
   color: #222;
 }
 
@@ -23,6 +26,7 @@ header {
   color: #222;
   align-items: center;
   font-family: "Open Sans", serif;
+  font-family: "Inter", serif;
 }
 
 header .data {
@@ -71,6 +75,7 @@ header nav {
   display: flex;
   align-items: baseline;
   font-family: "Open Sans", sans-serif;
+  font-family: "Inter", serif;
 }
 
 
@@ -133,7 +138,7 @@ article h1 {
   display: block;
   max-width: 80%;
   margin: 0;
-  padding: 10px 0;
+  padding: 5px 0;
   font-size: 26px;
   line-height: 35px;
 }
@@ -211,6 +216,7 @@ article blockquote {
   text-align: center;
   color: #777;
   font-family: "Open Sans", sans-serif;
+  font-family: "Inter", serif;
   font-size: 12pt;
   padding: 20px;
 }
