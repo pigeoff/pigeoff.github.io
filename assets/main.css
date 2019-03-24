@@ -170,7 +170,7 @@ article .date {
 
 article .date.big {
   color: #777;
-  font-size: 13px;
+  font-size: 13pt;
   display: block;
   padding: 1em 0;
 }
@@ -193,10 +193,11 @@ article blockquote {
   background: #fff;
   color: #000;
   line-height: 30px;
+  font-size: 13pt;
 }
 
 #sidebar h2 {
-  font-size: 18px;
+  font-size: 15pt;
   color: #000;
 }
 
