@@ -1,4 +1,10 @@
-# D'où vient la crise de 2007
+---
+title: "D'où vient la crise de 2007"
+type: post
+chapeau: "Comment est apparue la crise des subprimes ? Retour sur les causes de la crise de 2007, ou comment la cupidité et la stupidité des agents économiques ont provoqué l'effondrement de l'économie mondiale."
+---
+
+
 
 Hier soir, j'ai une fois de plus regardé *The Big Short*, le film retraçant l'histoire de ceux ayant parié que le marché immobilier allait s'éfondrer en 2007, à raison. Finallement, j'ai enfin réussi à comprendre comment la crise économique est survenu, enfin. Repassons tout ça en revue et intéressons nous à la finance.
 
