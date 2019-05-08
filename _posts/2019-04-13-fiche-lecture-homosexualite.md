@@ -2,6 +2,7 @@
 title: "Homosexualité et politique : liste de lecture"
 type: post
 chapeau: "Petite liste de lecture qui regroupe des livres et brochures traitant de l'homosexualité dans une perspective politique plutôt radicale."
+tag: "queer"
 ---
 
 

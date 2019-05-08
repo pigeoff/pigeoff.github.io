@@ -2,6 +2,7 @@
 type: post
 title: "Quand le moral affronte la vicissitude du monde"
 chapeau: "Vicissitude [n.f] : Succession d'événements bons ou mauvais, et, en particulier, ensemble des événements malheureux qui affectent l'existence humaine."
+tag: "texte"
 ---
 
 > **Vicissitude** [n.f] : Succession d'événements bons ou mauvais, et, en particulier, ensemble des événements malheureux qui affectent l'existence humaine.

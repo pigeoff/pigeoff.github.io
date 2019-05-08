@@ -2,6 +2,7 @@
 layout: post
 title: "Les ateliers d'écriture"
 chapeau: "Comment deux ateliers d'écriture m'ont fait découvrir un mode d'expression et de relation incroyable. Retour sur ce dernier atelier d'écriture boulversant, vivifiant et thérapeutique."
+tag: "pratique"
 ---
 
 On était six, entre copains et copines de travail. On s'est retrouvé un lundi soir, après les cours pour les un·e·s, le travail pour les autres. Tout avait commencé quand l'une des filles du groupe nous avait tou·te·s proposé de nous retrouver chez elle pour entamer un atelier d'écriture et de création plastique régulier. J'avais justement assisté à mon premier atelier d'écriture deux semaines avant, j'avais adoré, je souhaitais renouveler l'expérience rapidement. 

@@ -2,6 +2,7 @@
 type: post
 title: "Un milieu queer pas si queer"
 chapeau: "Imaginez vous revenez à l'école et votre cours de maths est la métaphore des limites du milieu queer. Vous n'imaginez rien, cette article en est la réalité."
+tag: "queer"
 ---
 
 Imaginez vous revenir à l'école, au lycée précisément. Disons en seconde, en classe de mathématiques. Vous êtes là, devant votre prof de maths et ce dernier vous dicte une leçon : aujourd'hui il va vous apprendre le théorème de Pythagore.

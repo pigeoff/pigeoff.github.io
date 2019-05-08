@@ -2,6 +2,7 @@
 title: "D'où vient la crise de 2007"
 type: post
 chapeau: "Comment est apparue la crise des subprimes ? Retour sur les causes de la crise de 2007, ou comment la cupidité et la stupidité des agents économiques ont provoqué l'effondrement de l'économie mondiale."
+tag: "politique"
 ---
 
 
