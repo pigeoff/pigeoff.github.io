@@ -29,7 +29,7 @@ Vous emmerdez pas avec le tome 2 et 3 (en vrai je dis ça alors que je les ai pa
 
 Bon ça a l'air flou expliqué comme ça mais en vérité, c'est une réflexion qui part très loin pour tenter de comprendre comment les institutions approchent nos corps et nos pratiques corpels, en lien avec la sexualité. Ça inclue de fait selon lui la question de l'homosexualité, un concept produit par le discours scientifique et psychanalytique dans le cadre de ce *dispositif de sexualité*. Je pense relire le bouquin et mieux expliquer sa pensée dans un article que j'écrirai plus tard.
 
-##*Pédé et féminisme* - collectif
+## « Pédé et féminisme » - collectif
 
 Il s'agit d'une brochure écrit par un groupe en non-mixité *pédés*. Elle est très bien faite, pédagogue et tout, puis surtout traite d'un sujet nécessaire : la place ambivalente des *pédés* dans la société, entre domination et oppression. Le format brochure est assez agréable, surtout quand on l'a entre les mains (il y a de jolis dessins dedans). Très intéressant à lire quand on est soi-même gay, ça amène à réfléchir. Vous pouvez trouver la brochure [à cette adresse](https://infokiosques.net/spip.php?article1438).
 
