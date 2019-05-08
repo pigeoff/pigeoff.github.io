@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }} | {{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | absolute_url }}" />
+</head>
+<body>
+    <header class="cover-header">
+      <div class="data" >
+        <a class="top-title" href="{{ "/" | absolute_url }}" ><img class="logo" src="http://pigeoff.pw/img/logo.svg" width="60" /></a>
+      </div>
+      <nav >
+        <a href="{{ "/om" | absolute_url }}">Om</a>
+        <a href="http://pigeoff.pw/">Portfolio</a>
+          <a class="social" href="http://twitter.com/{{ site.twitter }}" target="_blank">
+            Twitter
+          </a>
+      </nav>
+    </header>
+
+    <div id="content" >
+      <div id="articles" >
+          <article >
+            <h1 class="big"><a href="{{ page.url }}" >{{ page.title }}</a></h1>
+            {{ content }}
+          </article>
+      </div>
+
+      <div id="sidebar" >
+        <h2>Om mig</h2>
+        <p>{{ site.description }}</p>
+        <p class="footer">Fait avec &lt;3 en Normandie</p>
+      </div>
+
+    </div>
+
+
+</body>
+</html>

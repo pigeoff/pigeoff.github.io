@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: static
 title: "Om"
 date: 2019-01-30 00:00:00 +0000
 ---
-
-Hej !
 
 Pour expliquer vite fait qui je suis : César, 19 ans, étudiant en sociologie et militant *pédé*. Je participe à des trucs pour faire plier le patriarcat et le capitalisme. Je suis un fana des sciences sociales et j'ai un intérêt privilégié pour tout ce qui tourne autour de la *sexualité* et du *pouvoir*.
 
